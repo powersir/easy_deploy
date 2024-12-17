@@ -1,0 +1,8 @@
+/target
+/.vscode
+*.lock
+config.yaml
+config-*
+server-*
+install_v2ray.sh
+id_rsa.pub
